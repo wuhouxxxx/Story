@@ -1,4 +1,3 @@
 Exit
-
+Line 2.
 I'm in the branch of develop
-Test in master.
